@@ -8,3 +8,6 @@ public class Animal
         return skill;
     }
 }
+
+
+//Init commit test thingy
